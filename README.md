@@ -26,7 +26,7 @@ I have structured this repository to include solutions for the following topics:
 
 - Clone the repository:  
   ```bash
-  git clone https://github.com/your-username/w3schools-c-exercises.git
+  git clone https://github.com/Samiscame/w3schools-c-exercises.git
   ```
 - Navigate to the directory of a specific topic and compile the code using `gcc` or any C compiler of your choice:  
   ```bash
